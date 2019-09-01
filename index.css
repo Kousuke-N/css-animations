@@ -3,6 +3,9 @@
   height: 100vh;
   padding-top: 100px;
   background: #ed5564;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 .title {
   font-size: 32px;
